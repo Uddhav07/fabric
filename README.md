@@ -163,7 +163,7 @@ Then [set your environmental variables](#environmental-variables) as shown above
 
 The great thing about Go is that it's super easy to upgrade. Just run the same command you used to install it in the first place and you'll always get the latest version.
 ```bash
-go install github.com/danielmiessler/fabric@latest
+go install github.com/danielmiessler/fabric@main
 ```
 
 ## Usage
